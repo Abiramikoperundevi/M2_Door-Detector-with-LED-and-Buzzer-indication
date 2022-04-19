@@ -3,6 +3,8 @@
 
 Door Detector acts as a security and indication system.It is avilable in the market in two piece form. One piece attaches on the door frame, and the other attaches parallel to the first piece on the door itself. The two parts create a closed circuit when the door is shut. As the door opens, the magnet and switch separate, breaking the circuit. When the circuit breaks, the sensor signals the central control panel and switch on the LED and Beep sound produced by Buzzer.In that it shows the voltage used by the circuit. 
 
+![th (8)](https://user-images.githubusercontent.com/101585225/163981637-87d73a68-5b8d-4ec3-8676-2302d3e61eb4.jpg)
+
 ## Research:-
 Door Detector with LED and Buzzer indication is a mini project which uses microcontroller ATmega328 and work as a indication system. 
  
