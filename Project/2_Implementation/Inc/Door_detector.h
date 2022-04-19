@@ -20,6 +20,9 @@
 #define LED_ON_TIME     (1000)  /**< LED ON time in milli seconds  */
 #define LED_OFF_TIME    (500)   /**< LED OFF time in milli seconds */
 
+#define BUZZER_ON (0xff)    /**<Buzzer ON for door detection */
+#define BUZZER_OFF  (0x00)  /**< BUzzer OFF for door detection */
+
 /**
  * Include files
  */ 
