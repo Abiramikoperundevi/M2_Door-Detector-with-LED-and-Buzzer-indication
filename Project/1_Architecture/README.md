@@ -1,7 +1,7 @@
 #  ARCHITECTURE 
 
 * Behaviour Diagram
-* Structuralm Diagram
+* Structural Diagram
 
 # BEHAVIOUR DIAGRAM
 
