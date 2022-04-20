@@ -32,3 +32,7 @@
 * Git Inspector
 
 [![Contribution Check - Git Inspector](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/git_inspector.yml)
+
+* Valgrind
+
+[![Valgrind](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Valgrind.yml)
