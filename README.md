@@ -28,3 +28,7 @@
 * Analysis
 
 [![Analysis](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Analysis.yml)
+
+* Git Inspector
+
+[![Contribution Check - Git Inspector](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/git_inspector.yml)
