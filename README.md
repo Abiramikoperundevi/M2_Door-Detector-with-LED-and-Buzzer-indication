@@ -24,3 +24,7 @@
 * Build - Linux
 
 [![Build CI -Linux](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Build_Linux.yml)
+
+* Analysis
+
+[![Analysis](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Analysis.yml)
