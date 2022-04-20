@@ -12,3 +12,7 @@
 ![Codiga Badge](https://api.codiga.io/project/32888/score/svg)
 
 ![Codiga Badge](https://api.codiga.io/project/32888/status/svg)
+
+* cppcheck action
+
+[![cppcheck-action](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/cppcheck-action.yml)
