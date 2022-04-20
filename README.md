@@ -36,3 +36,7 @@
 * Valgrind
 
 [![Valgrind](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/Valgrind.yml)
+
+* Unit Testing
+
+[![Unit testing](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Abiramikoperundevi/M2_Door-Detector-with-LED-and-Buzzer-indication/actions/workflows/unit-test.yml)
