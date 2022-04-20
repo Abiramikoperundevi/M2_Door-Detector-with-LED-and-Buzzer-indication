@@ -1,5 +1,8 @@
 # M2_Door-Detector-with-LED-and-Buzzer-indication
 
+
+![HTB141ENXy6guuRkSnb4q6zu4XXaJ](https://user-images.githubusercontent.com/101585225/164284238-0689f3b4-c214-4c38-9c18-31a6094e98ff.jpg)
+
 # Badges
 
 * Codacy - static code analysis
