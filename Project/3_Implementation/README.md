@@ -1,1 +1,9 @@
+# Implementation
+
+## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for calculator
+`Documentation`        | Documentry for project
 
