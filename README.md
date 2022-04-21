@@ -55,6 +55,17 @@ Folder             | Description
 `5_Report`         |Document consisting the evaluation sheet
 `6_Output`         | Output images and Hexa files
 
+# DOOR DETECTOR WITH LED AND BUZZER INDICATION
+## IN ACTION
+
+### SWITCH OFF AND DOOR IS CLOSED
+![Switch OFF and Door is closed](https://user-images.githubusercontent.com/101585225/164526308-a9e5edaa-a79b-4302-9148-039b8d0c5aa1.png)
+
+### SWITCH ON AND DOOR IS CLOSED
+![Switch ON and Door is Closed](https://user-images.githubusercontent.com/101585225/164526435-be770045-f64a-44a2-bb43-21f5f9560a12.png)
+ 
+### SWITCH ON AND DOOR IS OPEN
+![Switch ON and Door is open](https://user-images.githubusercontent.com/101585225/164526534-3c53a9c7-ea60-4615-8881-5f40918e9404.png)
 
 
 ## Integrated Tools to GitHub
