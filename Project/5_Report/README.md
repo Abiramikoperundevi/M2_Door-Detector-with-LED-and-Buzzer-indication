@@ -81,3 +81,25 @@ Door Detector with LED and Buzzer indication is a mini project which uses microc
 |LLR1	       |  Interface switch(Door sensor) with ATMega328p |Implemented    |
 |LLR2	       |Interface LED With ATMega328p   | Implemented  |
 |LLR3	       |  Interface Buzzer with ATMega328p	   |Implemented   |
+
+# SYSTEM ARCHITECTURE
+
+![SYSTEM ARCITECTURE](https://user-images.githubusercontent.com/101585225/164519165-8dbd5f8f-1f6c-455a-bca1-ccf6498f11be.jpg)
+
+# FLOW CHART
+
+![Structural Diagram drawio](https://user-images.githubusercontent.com/101585225/164519321-6fce1e0c-de38-4448-aade-03e3927c006b.png)
+
+# PROJECT OUTPUTS
+
+## SWITCH OFF DOOR IS CLOSED
+![Switch OFF and Door is closed](https://user-images.githubusercontent.com/101585225/164519560-6b2949d8-5775-4856-8d2e-71dbf038b003.png)
+
+## SWITCH ON DOOR IS CLOSED
+![Switch ON and Door is Closed](https://user-images.githubusercontent.com/101585225/164519644-34828199-7208-44a8-9e2b-ec5c243baa05.png)
+
+## SWITCH ON DOOR IS OPEN
+![Switch ON and Door is open](https://user-images.githubusercontent.com/101585225/164519736-b3238f2e-75c5-440c-ac87-4d459763fabd.png)
+
+
+
