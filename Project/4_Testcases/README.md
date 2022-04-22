@@ -1,5 +1,5 @@
 
-# M2-EmbSys
+# M2-DOOR_DETECTOR_WITH_LED_AND_BUZZER_INDICATION
 
 ##  High level test plan
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Output** |**Type Of Test**  |    
