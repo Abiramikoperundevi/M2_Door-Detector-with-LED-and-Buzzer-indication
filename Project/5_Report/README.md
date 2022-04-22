@@ -65,6 +65,11 @@ Door Detector with LED and Buzzer indication is a mini project which uses microc
    Designed for security systems.
  ## How:-
    By using C programming and SimulIDE.
+   
+## Data Transistion Flow
+![Data Transistion Flow](https://user-images.githubusercontent.com/101585225/164588898-d5ce0f45-8c1d-4ae0-8541-1eaffc334bd2.png)
+
+
 
 
 # DETAIL REQUIREMENTS
