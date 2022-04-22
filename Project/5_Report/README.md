@@ -35,6 +35,9 @@ Door Detector with LED and Buzzer indication is a mini project which uses microc
 - Acts as a device to communicate with the user when door is opened
 
 --------------------------------------
+# WORKING PRINCIPLE :
+
+After wiring and connecting all of the devices and connecting them to the switch,check all of the necessary setups to see if anything is missing. Following the connection setup, In the next step is to submit/upload the code to the microcontroller and power up the circuit. After upload the code,press the simulatation button once the system is turns ON,press the fixed volt to turn on.when the switch is open the led starts blinking which denotes the door is opened and when the switch is closed the buzzer turns on and make a sound which denotes the door is closed.
 
 ## SWOT
 
@@ -123,6 +126,21 @@ Door Detector with LED and Buzzer indication is a mini project which uses microc
 |  L_01       | Use Switch (as Door Sensor) to give input to the Aurdino|  -  | -|-|Requirement based |
 |  L_02       | Detect the door is opened |  For simulation : Expected input for Door sensor is given with help of potentiometer  | LED Turns on|LED Turns on|Requirement based |
 |  L_03       | To power the buzzer if the door is opened | The door is opened through the switch |Buzzer sound| Buzzer Sound |Requirement based    |
+
+# ADVANTAGE :
+
+
+* Energy saving 
+* Hygiene control
+
+
+
+
+# DISADVANTAGE :
+
+* Maintenance
+* cleaning
+
 
 
 
