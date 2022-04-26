@@ -1,0 +1,109 @@
+<circuit type="simulide_1.0" rev="1007" stepSize="1000000" stepsPS="1000000" NLsteps="100000" animate="0" >
+
+<item itemtype="MCU" CircId="mega328-1" mainComp="false" Show_id="true" Show_Val="false" Pos="864,524" rotation="0" hflip="1" vflip="1" label="mega328-1" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="16 MHz" Program="../AppData/Local/Temp/arduino_build_805957/sketch_apr18a.ino.hex" Auto_Load="false" Rst_enabled="false" Ext_Osc="false" Wdt_enabled="false" />
+
+<item itemtype="Resistor" CircId="Resistor-3" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="980,592" rotation="90" hflip="1" vflip="1" label="Resistor-3" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="100 Î©" />
+
+<item itemtype="Ground" CircId="Ground-4" mainComp="false" Show_id="false" Show_Val="false" Pos="1056,672" rotation="0" hflip="1" vflip="1" label="Ground-4" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-5" mainComp="false" Show_id="true" Show_Val="false" Pos="1040,536" rotation="180" hflip="1" vflip="1" label="Fixed Voltage-5" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Switch" CircId="Switch-7" mainComp="false" Show_id="false" Show_Val="false" Pos="1028,632" rotation="0" hflip="1" vflip="1" label="Switch-7" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" DT="false" Poles="1 _Poles" />
+
+<item itemtype="Ground" CircId="Ground-13" mainComp="false" Show_id="false" Show_Val="false" Pos="796,532" rotation="0" hflip="1" vflip="1" label="Ground-13" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Voltimeter" CircId="Voltimeter-14" mainComp="false" Show_id="false" Show_Val="false" Pos="996,696" rotation="0" hflip="1" vflip="1" label="Voltimeter-14" idLabPos="-24,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" SwitchPins="false" />
+
+<item itemtype="Voltimeter" CircId="Voltimeter-15" mainComp="false" Show_id="false" Show_Val="false" Pos="744,452" rotation="0" hflip="1" vflip="1" label="Voltimeter-15" idLabPos="-24,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" SwitchPins="true" />
+
+<item itemtype="Led" CircId="Led-22" mainComp="false" Show_id="false" Show_Val="false" Pos="796,472" rotation="90" hflip="1" vflip="1" label="Led-22" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="false" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Î©" />
+
+<item itemtype="AudioOut" CircId="AudioOut-53" mainComp="false" Show_id="false" Show_Val="false" Pos="784,576" rotation="0" hflip="1" vflip="1" label="AudioOut-53" idLabPos="-20,-36" labelrot="0" valLabPos="-16,20" valLabRot="0" Buzzer="false" Impedance="inf Î©" />
+
+<item itemtype="Ground" CircId="Ground-54" mainComp="false" Show_id="false" Show_Val="false" Pos="792,636" rotation="0" hflip="1" vflip="1" label="Ground-54" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="TextComponent" CircId="TextComponent-75" mainComp="false" Show_id="false" Show_Val="false" Pos="696,560" rotation="0" hflip="1" vflip="1" label="TextComponent-75" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="false" Text="...Buzzer..." />
+
+<item itemtype="TextComponent" CircId="TextComponent-76" mainComp="false" Show_id="false" Show_Val="false" Pos="792,424" rotation="0" hflip="1" vflip="1" label="TextComponent-76" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="false" Text="... LED ..." />
+
+<item itemtype="TextComponent" CircId="TextComponent-77" mainComp="false" Show_id="false" Show_Val="false" Pos="1016,592" rotation="0" hflip="1" vflip="1" label="TextComponent-77" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="false" Text="...Switch as Door sensor..." />
+
+<item itemtype="TextComponent" CircId="TextComponent-78" mainComp="false" Show_id="false" Show_Val="false" Pos="1020,500" rotation="0" hflip="1" vflip="1" label="TextComponent-78" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="false" Text="...Switch/Power Supply..." />
+
+<item itemtype="TextComponent" CircId="TextComponent-80" mainComp="false" Show_id="false" Show_Val="false" Pos="792,388" rotation="0" hflip="1" vflip="1" label="TextComponent-80" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="5 _Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="..DOOR DETECTOR WITH LED AND BUZZER INDICATION..." />
+
+<item itemtype="Amperimeter" CircId="Amperimeter-101" mainComp="false" Show_id="false" Show_Val="false" Pos="984,456" rotation="0" hflip="1" vflip="1" label="Amperimeter-101" idLabPos="-24,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" SwitchPins="false" />
+
+<item itemtype="Ground" CircId="Ground-105" mainComp="false" Show_id="false" Show_Val="false" Pos="964,520" rotation="0" hflip="1" vflip="1" label="Ground-105" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Probe" CircId="Probe-135" mainComp="false" Show_id="false" Show_Val="true" Pos="720,520" rotation="-45" hflip="1" vflip="1" label="Probe-135" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Node" CircId="Node-9" mainComp="false" Pos="1012,632" />
+
+<item itemtype="Node" CircId="Node-17" mainComp="false" Pos="1056,652" />
+
+<item itemtype="Node" CircId="Node-20" mainComp="false" Pos="944,632" />
+
+<item itemtype="Node" CircId="Node-25" mainComp="false" Pos="796,500" />
+
+<item itemtype="Node" CircId="Node-28" mainComp="false" Pos="796,456" />
+
+<item itemtype="Node" CircId="Node-31" mainComp="false" Pos="1044,632" />
+
+<item itemtype="Node" CircId="Node-34" mainComp="false" Pos="1056,656" />
+
+<item itemtype="Node" CircId="Node-103" mainComp="false" Pos="1008,536" />
+
+<item itemtype="Node" CircId="Node-137" mainComp="false" Pos="768,548" />
+
+<item itemtype="Connector" uid="connector-110" startpinid="Resistor-3-lPin" endpinid="Node-103-0" pointList="980,576,980,536,1008,536" />
+
+<item itemtype="Connector" uid="connector-111" startpinid="Resistor-3-rPin" endpinid="Node-9-0" pointList="980,608,980,632,1012,632" />
+
+<item itemtype="Connector" uid="connector-112" startpinid="Node-9-2" endpinid="Switch-7-pinP0" pointList="1012,632,1012,632" />
+
+<item itemtype="Connector" uid="connector-113" startpinid="Node-9-1" endpinid="Node-20-0" pointList="1012,632,944,632" />
+
+<item itemtype="Connector" uid="connector-114" startpinid="Ground-4-Gnd" endpinid="Node-34-0" pointList="1056,656,1056,656" />
+
+<item itemtype="Connector" uid="connector-115" startpinid="Voltimeter-14-rPin" endpinid="Node-17-1" pointList="1004,712,1040,712,1040,652,1056,652" />
+
+<item itemtype="Connector" uid="connector-116" startpinid="Node-17-2" endpinid="Node-31-0" pointList="1056,652,1056,632,1044,632" />
+
+<item itemtype="Connector" uid="connector-117" startpinid="Voltimeter-14-lPin" endpinid="Node-20-1" pointList="988,712,932,712,932,632,944,632" />
+
+<item itemtype="Connector" uid="connector-118" startpinid="Node-20-2" endpinid="mega328-1-PORTB1" pointList="944,632,904,632,904,636" />
+
+<item itemtype="Connector" uid="connector-119" startpinid="Ground-13-Gnd" endpinid="Node-25-0" pointList="796,516,796,500" />
+
+<item itemtype="Connector" uid="connector-120" startpinid="Voltimeter-15-rPin" endpinid="Node-25-1" pointList="736,468,736,500,796,500" />
+
+<item itemtype="Connector" uid="connector-121" startpinid="Node-25-2" endpinid="Led-22-rPin" pointList="796,500,796,488" />
+
+<item itemtype="Connector" uid="connector-122" startpinid="Voltimeter-15-lPin" endpinid="Node-28-0" pointList="752,468,752,512,796,512,796,456" />
+
+<item itemtype="Connector" uid="connector-123" startpinid="Node-28-2" endpinid="Led-22-lPin" pointList="796,456,796,456" />
+
+<item itemtype="Connector" uid="connector-124" startpinid="Node-28-1" endpinid="mega328-1-PORTC6" pointList="796,456,828,456,828,532,856,532" />
+
+<item itemtype="Connector" uid="connector-125" startpinid="Node-31-2" endpinid="Switch-7-switch0pinN" pointList="1044,632,1044,632" />
+
+<item itemtype="Connector" uid="connector-126" startpinid="Node-31-1" endpinid="Node-34-1" pointList="1044,632,1056,632,1056,656" />
+
+<item itemtype="Connector" uid="connector-127" startpinid="Node-34-2" endpinid="Node-17-0" pointList="1056,656,1056,652" />
+
+<item itemtype="Connector" uid="connector-128" startpinid="AudioOut-53-rPin" endpinid="Ground-54-Gnd" pointList="768,576,768,620,792,620" />
+
+<item itemtype="Connector" uid="connector-130" startpinid="Amperimeter-101-rPin" endpinid="Node-103-1" pointList="992,472,992,536,1008,536" />
+
+<item itemtype="Connector" uid="connector-131" startpinid="Node-103-2" endpinid="Fixed Voltage-5-outnod" pointList="1008,536,1024,536" />
+
+<item itemtype="Connector" uid="connector-132" startpinid="Ground-105-Gnd" endpinid="Amperimeter-101-lPin" pointList="964,504,964,472,976,472" />
+
+<item itemtype="Connector" uid="connector-129" startpinid="AudioOut-53-lPin" endpinid="Node-137-0" pointList="768,568,768,548" />
+
+<item itemtype="Connector" uid="Connector-136" startpinid="Probe-135-inpin" endpinid="Node-137-1" pointList="704,536,768,536,768,548" />
+
+<item itemtype="Connector" uid="Connector-138" startpinid="Node-137-2" endpinid="mega328-1-PORTD1" pointList="768,548,856,548" />
+
+</circuit>
